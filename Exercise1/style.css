@@ -11,6 +11,8 @@ p {
 
 li {
     color: #707070;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 header {
@@ -39,4 +41,13 @@ h3 {
 
 img {
     width: 100%;
+}
+
+.stars {
+    color: #F4B400;
+    size: 25px;
+}
+
+.content {
+    text-align: left;
 }
