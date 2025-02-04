@@ -11,6 +11,7 @@ img {
   width: 400px;
 }
 
+/*
 #eyes1 {
   position: absolute;
   top: 180px;
@@ -24,6 +25,14 @@ img {
   left: 40px;
   top: 5px;
 }
+*/
+
+#unicorn {
+  position: absolute;
+  width: 350px;
+  left: 75px;
+  top: -130px;
+}
 
 #nose2 {
   position: absolute;
@@ -35,7 +44,7 @@ img {
 #mouth2 {
   position: absolute;
   width: 200px;
-  left: 115px;
+  left: 106px;
   top: 317px;
 }
 
