@@ -8,11 +8,14 @@ img {
 #eyes1 {
   position: absolute;
   top: 180px;
-  left: 120px;
+  left: 110px;
   width: 200px;
 }
 
 #hair1 {
   position: absolute;
+  width: 335px;
+  left: 40px;
+  top: 5px;
 }
 
