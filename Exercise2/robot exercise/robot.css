@@ -5,3 +5,14 @@ img {
   width: 400px;
 }
 
+#eyes1 {
+  position: absolute;
+  top: 180px;
+  left: 120px;
+  width: 200px;
+}
+
+#hair1 {
+  position: absolute;
+}
+
