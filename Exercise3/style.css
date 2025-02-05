@@ -51,9 +51,12 @@ p {
 
 .container2 {
     background-color: blanchedalmond;
+    border: 2px solid black;
     padding: 50px;
-    width: 100%;
-    gap: 0px;
+    max-width: 500px;
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 .title {
     margin-top: -20px;
@@ -67,7 +70,4 @@ input[type="email"], input[type="text"] {
     border: 1px solid #ccc;
     border-radius: 5px;
     font-size: 16px;
-    transition: border-color 0.3s ease-in-out;
 }
-
-

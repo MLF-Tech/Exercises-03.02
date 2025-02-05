@@ -1,0 +1,46 @@
+.container {
+    width: 90%;
+    aspect-ratio: 1/1;
+    border: 1px solid red;
+    position: relative;
+}
+
+.container img {
+    position: absolute;
+}
+
+#face {
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+#nose {
+    width: 5%;
+    top: 50%;
+    left: 45%;
+}
+
+#ears {
+    width: 75%;
+    top: 10%;
+    left: 4%;
+}
+
+#mouth {
+    width: 30%;
+    top: 55%;
+    left: 35%;
+}
+
+#eyes {
+    width: 40%;
+    top: 35%;
+    left: 25%;
+}
+
+#hair {
+    width: 70%;
+    top: -8%;
+    left: 8%;
+}
