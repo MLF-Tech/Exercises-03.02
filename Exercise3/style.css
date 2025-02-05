@@ -17,3 +17,20 @@
     font-size: 2rem;
    
 }
+
+.gif {
+    display: block;
+    border: 5px double burlywood;
+    box-shadow: 10px 10px 10px 10px rgb(222, 154, 65);
+    width: auto;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center; /* Se vuoi centrare l'immagine */
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+
